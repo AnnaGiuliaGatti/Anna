@@ -15,6 +15,7 @@ public class UsoPilha {
 		pilha.push(55);
 		pilha.push(66);
 		pilha.push(77);
+		pilha.push(77);
 		
 		System.out.println("Valor retirado: " + pilha.pop());
 		System.out.println("Valor retirado: " + pilha.pop());
